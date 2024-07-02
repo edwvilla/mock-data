@@ -20,10 +20,7 @@
             "type": "accesibility",
             "options": [
                 {
-                    "name": "light",
-                    "primary": "#FFFFFF",
-                    "background": "#FFFFFF",
-                    "accent": "#FFFFFF"
+                    "fontSize": "12",
                 }
             ]
         }
