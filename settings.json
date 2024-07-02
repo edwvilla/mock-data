@@ -1,0 +1,16 @@
+{
+    "settings": [
+        {
+            "type": "colors",
+            "options": [
+                {
+                    "name": "light",
+                    "primary": "#FFFFFF",
+                    "background": "#FFFFFF",
+                    "accent": "#FFFFFF"
+                }
+            ]
+        }
+
+    ]
+}
