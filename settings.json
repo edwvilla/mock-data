@@ -1,7 +1,23 @@
 {
+    "menu": [
+        "Torneos",
+        "Perfil",
+        "Configuracion"
+    ],
     "settings": [
         {
             "type": "colors",
+            "options": [
+                {
+                    "name": "light",
+                    "primary": "#FFFFFF",
+                    "background": "#FFFFFF",
+                    "accent": "#FFFFFF"
+                }
+            ]
+        }
+        {
+            "type": "accesibility",
             "options": [
                 {
                     "name": "light",
