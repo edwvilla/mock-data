@@ -9,10 +9,10 @@
             "type": "colors",
             "options": [
                 {
-                    "name": "light",
-                    "primary": "#FFFFFF",
-                    "background": "#FFFFFF",
-                    "accent": "#FFFFFF"
+                    "name": "default",
+                    "primary": "#CDE617",
+                    "background": "#042434",
+                    "font": "#CDE617"
                 }
             ]
         },
