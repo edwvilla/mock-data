@@ -20,7 +20,7 @@
             "type": "accesibility",
             "options": [
                 {
-                    "fontSize": "12",
+                    "fontSize": "12"
                 }
             ]
         }
