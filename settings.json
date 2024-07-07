@@ -9,10 +9,54 @@
             "type": "colors",
             "options": [
                 {
-                    "name": "default",
+                    "name": "Default",
                     "primary": "#CDE617",
                     "background": "#042434",
                     "font": "#CDE617"
+                }
+            ]
+        },
+        {
+            "type": "colors",
+            "options": [
+                {
+                    "name": "Morado",
+                    "primary": "#DA0C81",
+                    "background": "#3C0753",
+                    "font": "#DA0C81"
+                }
+            ]
+        },
+        {
+            "type": "colors",
+            "options": [
+                {
+                    "name": "Verde",
+                    "primary": "#BED754",
+                    "background": "#191919",
+                    "font": "#BED754"
+                }
+            ]
+        },
+        {
+            "type": "colors",
+            "options": [
+                {
+                    "name": "Naranja",
+                    "primary": "#F05941",
+                    "background": "#22092C",
+                    "font": "#F05941"
+                }
+            ]
+        },
+        {
+            "type": "colors",
+            "options": [
+                {
+                    "name": "Aqua",
+                    "primary": "#B6EADA",
+                    "background": "#03001C",
+                    "font": "#B6EADA"
                 }
             ]
         },
